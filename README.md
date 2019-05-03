@@ -20,6 +20,7 @@
 ## Project Objective
 * The prime objective of this project is very clear, that we want to predict the whether an applicant can be approved of home loan or not by applying machine learninig techniques
 
+
 * Eploring and Analyzing the data
 
 
@@ -30,11 +31,14 @@
 
 
 * Finalizing the Machine learning model to build predict loan approval process
-
 ----
 ## File Description
 testloan.csv                                  # Test dataset
+
+
 trainloan.csv                                 # Train dataset
+
+
 loanprediction.ipynb                          # Pythin work book
 
 ---
