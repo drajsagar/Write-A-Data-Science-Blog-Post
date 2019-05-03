@@ -43,7 +43,7 @@ loanprediction.ipynb                          # Pythin work book
 
 ----
 ## 4. Results
-Blog post                                     # The findings and analysis
+[Blog post](https://medium.com/@drajsagar/home-loan-approval-using-machine-learning-c881c0818857)                                     # The findings and analysis
 
 ----
 ## 5. Licensing, Authors, and Acknowledgements
