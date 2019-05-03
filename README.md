@@ -47,6 +47,8 @@ Blog post                                     # The findings and analysis
 
 ----
 ## 5. Licensing, Authors, and Acknowledgements
-
+Kaggle
+UCI
+Kdnuggets
 
 ----
