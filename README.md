@@ -22,9 +22,12 @@
 
 * Eploring and Analyzing the data
 
+
 * Handling the outliers and missing data values
 
+
 * Apply differnt machine learning algorthims to understand how accurate they can preduct
+
 
 * Finalizing the Machine learning model to build predict loan approval process
 
@@ -37,4 +40,5 @@ loanprediction.ipynb                          # Pythin work book
 ---
 ## Results
 Blog post                                     # The findings and analysis
+
 --
