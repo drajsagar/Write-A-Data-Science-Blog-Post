@@ -41,12 +41,12 @@ trainloan.csv                                 # Train dataset
 
 loanprediction.ipynb                          # Pythin work book
 
----
+----
 ## 4. Results
 Blog post                                     # The findings and analysis
 
---
+----
 ## 5. Licensing, Authors, and Acknowledgements
 
 
---
+----
